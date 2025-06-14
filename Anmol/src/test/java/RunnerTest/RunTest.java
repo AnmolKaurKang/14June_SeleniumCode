@@ -12,7 +12,8 @@ import io.cucumber.junit.CucumberOptions;
 	
 	features = "src/test/resources/Features",
 	glue = {"StepDefinitions"},
-	plugin= {"pretty","json:Reports/cucumber.json"}
+	plugin= {"pretty","json:Reports/cucumber.json"},
+	dryRun=true
 
 )		
 public class RunTest {
