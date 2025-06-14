@@ -2,8 +2,7 @@ package RunnerTest;
 
 import org.junit.runner.RunWith;
 
-
-
+import cucumber.api.testng.AbstractTestNGCucumberTests;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 
@@ -16,7 +15,7 @@ import io.cucumber.junit.CucumberOptions;
 	dryRun=true
 
 )		
-public class RunTest {
+public class RunTest extends AbstractTestNGCucumberTests {
 	
 }
 
