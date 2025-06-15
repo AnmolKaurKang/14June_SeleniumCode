@@ -17,7 +17,7 @@
 ## (Comments)
 #Sample Feature Definition Template
 @tag
-Feature: I want to use this template for my feature file to test Scenarios for Landing Page......
+Feature: I want to use this template for my feature file to test Scenarios for Landing Page.......................
 
  Scenario Outline:
  Given  User is on the Landing Page
