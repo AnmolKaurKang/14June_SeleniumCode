@@ -27,5 +27,7 @@ Feature: Title of your feature
   Examples:
  |UserName|Password|
  |anmol|12345|
- |babuuu|2222|
  |parneet|4456777|
+ |babuuu|12340000000|
+ |deepu|88996655|
+#added the data from the master
