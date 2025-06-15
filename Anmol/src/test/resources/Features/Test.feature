@@ -17,8 +17,7 @@
 ## (Comments)
 #Sample Feature Definition Template
 @tag
-Feature: Validating UserName and Password for the Landing page.
-  I want to use this template for my feature file
+Feature: Validating UserName and Password for the .
 
  Scenario Outline:
  Given  User is on the Landing Page
