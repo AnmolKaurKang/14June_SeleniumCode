@@ -28,3 +28,4 @@ Feature: Title of your feature
  |UserName|Password|
  |anmol|12345|
  |babuuu|12340000000|
+ |deepu|88996655|
