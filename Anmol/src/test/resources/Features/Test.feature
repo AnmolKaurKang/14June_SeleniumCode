@@ -17,7 +17,9 @@
 ## (Comments)
 #Sample Feature Definition Template
 @tag
-Feature: Validating UserName and Password for the .
+
+Feature: Validating UserName and Password for the Landing page for Practice.
+
 
  Scenario Outline:
  Given  User is on the Landing Page
