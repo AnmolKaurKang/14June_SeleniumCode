@@ -17,8 +17,7 @@
 ## (Comments)
 #Sample Feature Definition Template
 @tag
-Feature: Title of your feature
-  I want to use this template for my feature file
+Feature: I want to use this template for my feature file to test Scenarios for Landing Page
 
  Scenario Outline:
  Given  User is on the Landing Page
