@@ -26,6 +26,5 @@ Feature: Title of your feature
  Then   User Navigates to the Shopping Page
   Examples:
  |UserName|Password|
- |anmol|12345|
  |babuuu|12340000000|
  |deepu|88996655|
