@@ -28,3 +28,4 @@ Feature: Title of your feature
  |UserName|Password|
  |anmol|12345|
  |babuuu|2222|
+ |parneet|4456777|
