@@ -25,10 +25,12 @@ Feature: Validating UserName and Password for the Landing page for Practice.
  Given  User is on the Landing Page
  And    User types <"UserName"> and <"Password"> 
  Then   User Navigates to the Shopping Page
+ 
   Examples:
  |UserName|Password|
  |anmol|12345|
  |parneet|4456777|
  |babuuu|12340000000|
  |deepu|88996655|
+ |testing|8888888888| 
 #added the data from the master
